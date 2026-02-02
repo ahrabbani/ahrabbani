@@ -64,11 +64,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagadish-ch&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahrabbani&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadish-ch&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com/?user=ahrabbani&theme=github-dark-blue" />
 </p>
 
 ---
