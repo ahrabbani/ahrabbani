@@ -1,11 +1,11 @@
 <h1 align="center">Aarif Hussain Rabbani 👋</h1>
 
 <p align="center">
-  <b>Software Engineer • Java Full Stack Developer • AWS Cloud Enthusiast</b>
+  <b>Backend Software Engineer • Java Full Stack Developer • AWS Cloud Enthusiast</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jagadish-ch&style=flat&color=6e40c9" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ahrabbani&style=flat&color=6e40c9" alt="profile views" />
 </p>
 
 <p align="center">
@@ -41,25 +41,35 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" />
 </p>
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,angular" />
 </p>
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ☁️ Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,photoshop" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,gcp,aws,photoshop" />
 </p>
 
 ---
+
+### 🚀 Featured Projects
+- **Ekart E‑Commerce:** Microservice-based backend with Spring Boot, API Gateway, and Oracle SQL.  
+- **FoodAdda:** Secure ordering system with Spring Security, JWT, and role-based access.  
+- **Hospital Management** (C/C++): Console app using DSA and file handling for patients and appointments.  
 
 ### 📊 GitHub Stats
 
@@ -68,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahrabbani&theme=github-dark-blue" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ahrabbani&theme=github-dark-blue" />
 </p>
 
 ---
