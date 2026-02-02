@@ -49,14 +49,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,angular" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb" />
 </p>
 
 ### ☁️ Cloud & Tools
