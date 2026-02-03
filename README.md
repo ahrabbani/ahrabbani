@@ -76,6 +76,14 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=ahrabbani&theme=github-dark-blue" />
 </p>
 
+<div align="center">
+  <img
+    alt="GitHub Snake"
+    src="https://raw.githubusercontent.com/ahrabbani/ahrabbani/output/github-contribution-grid-snake.svg"
+  />
+</div>
+
+
 ---
 
 ### 🎯 Current Focus
