@@ -76,13 +76,11 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=ahrabbani&theme=github-dark-blue" />
 </p>
 
-### 🐍 Contribution Snake
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahrabbani/ahrabbani/output/github-snake-dark.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ahrabbani/ahrabbani/output/github-snake.svg" />
-  </picture>
+  <img
+    alt="GitHub Snake"
+    src="https://raw.githubusercontent.com/ahrabbani/ahrabbani/output/github-contribution-grid-snake.svg"
+  />
 </div>
 
 
